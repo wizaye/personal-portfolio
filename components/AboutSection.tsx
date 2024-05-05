@@ -13,8 +13,10 @@ const skills = [
   { skill: "SQL" },
   { skill: "Next.js" },
   { skill: "Flask" },
-  { skill: "Tailwind CSS" },
-  { skill: "Jupyter Notebooks" },
+  {skill:"TensorFlow"},
+  {skill:"Keras"},
+  {skill:"PyTorch"},
+  {skill: "Tailwind CSS" },
 ]
 
 const AboutSection = () => {

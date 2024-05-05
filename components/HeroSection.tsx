@@ -20,11 +20,12 @@ const HeroSection = () => {
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-5xl">Hello there 👋🏻,<br/> I&#39;m Vijayendher Gatla!</h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I&#39;m a{" "}
+            I&#39;m an{" "}
             <span className="font-semibold text-indigo-600">
               Undergraduate Student{" "}
             </span>
-            from Hyderabad,India.<br/> Working towards creating a career in the software industry and open source contributions.
+            <br/>
+            from 📍Hyderabad,India.<br/> Working towards creating a career in the software industry and open source contributions.
           </p>
           <Link
             to="projects"
